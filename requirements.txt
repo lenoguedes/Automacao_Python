@@ -1,0 +1,10 @@
+# Conexão e automação Office/Windows
+pywin32>=306
+
+# Manipulação de dados e planilhas
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# Banco de dados e ambiente
+pyodbc>=5.1.0
+python-dotenv>=1.0.1

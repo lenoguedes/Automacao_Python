@@ -1,0 +1,20 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Configurações
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários e de bloqueio do Excel
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# VS Code
+.vscode/
